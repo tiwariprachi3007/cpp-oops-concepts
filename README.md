@@ -28,3 +28,14 @@ Clone the repository and compile any file using:
 ```bash
 g++ filename.cpp -o output
 ./output
+
+🎯 Purpose
+Reinforce my understanding of OOP concepts in C++
+
+Build a strong foundation for Data Structures & Algorithms (DSA) and development
+
+Showcase practical mini-projects for recruiters and peers
+
+👩‍💻 Author
+Prachi Tiwari  
+Second-year B.Tech CSE student |
