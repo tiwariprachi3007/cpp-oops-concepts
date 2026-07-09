@@ -23,11 +23,22 @@ It is designed to strengthen my understanding of core concepts and serve as a po
 
 ---
 
+
 ## 🚀 How to Run
-Clone the repository and compile any file using:
+
+Clone the repository, compile any file, and run the program in three simple steps:
+
 ```bash
+# 1. Clone the repository
+git clone https://github.com/tiwariprachi3007/cpp-oops-concepts.git
+cd cpp-oops-concepts
+
+# 2. Compile any file
 g++ filename.cpp -o output
+
+# 3. Run the program
 ./output
+
 
 🎯 Purpose
 Reinforce my understanding of OOP concepts in C++
