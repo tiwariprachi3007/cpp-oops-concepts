@@ -5,6 +5,7 @@ class Account {
 protected:
     string owner;
     double balance;
+
 public:
     Account(string o, double b) : owner(o), balance(b) {}
     virtual void deposit(double amt) { balance += amt; }
