@@ -6,6 +6,7 @@ class Student {
     string name;
     int roll;
 public:
+
     Student(string n, int r) : name(n), roll(r) {}
     void display() { cout << "Roll: " << roll << ", Name: " << name << endl; }
 };
