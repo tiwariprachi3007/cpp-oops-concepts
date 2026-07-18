@@ -4,6 +4,7 @@ This repository showcases my practice programs and mini-projects demonstrating *
 It is designed to strengthen my understanding of core concepts and serve as a portfolio of clean, structured code.
 
 ---
+
 ## 📌 Contents
 - **Basics**
   - Classes & Objects
