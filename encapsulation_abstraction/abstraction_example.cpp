@@ -15,7 +15,6 @@ class UPI : public Payment {
 public:
     void pay() { cout << "Paid using UPI\n"; }
 };
-
 int main() {
     Payment* p;
     CreditCard c;
