@@ -1,4 +1,4 @@
-# 📚 C++ OOPs Concepts
+## 📚 C++ OOPs Concepts
 
 This repository showcases my practice programs and mini-projects demonstrating **Object-Oriented Programming (OOP)** principles in C++.  
 It is designed to strengthen my understanding of core concepts and serve as a portfolio of clean, structured code.
